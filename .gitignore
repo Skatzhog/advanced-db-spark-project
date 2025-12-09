@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+.sparkmagic/
+.virtual_documents/
+.Trash-*/
+lost+found/
+.DS_Store
+__pycache__/
+*.pyc
